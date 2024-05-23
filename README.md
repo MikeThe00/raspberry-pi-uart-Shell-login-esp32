@@ -6,7 +6,7 @@ Before you try this on any raspberry pi just know that currently right now I've 
 Although I did follow wiring that was done on a Raspberry pi 4 B So if you follow all the steps you should be able to do it on both models although I'm not sure since I do not have a Raspberry pi 4 B
 To include this code is kinda janky since it was originally meant to be used with a Arduino Uno
 
-!!!!!!!!             This uses the Arduino Library You have to install the esp32 Package and esp 32 board manager In order for this to work in the Arduino ide add on platform io you need to go to platforms, embedded search up and install espressif 32 Then go to framework, Search up and install Arduino          !!!!!!!!
+!!!!!!!!             This uses the Arduino framework You have to install the esp32 Package and esp 32 board manager In order for this to work in the Arduino ide on platform io you need to go to platforms, embedded search up and install espressif 32 Then go to framework, Search up and install Arduino          !!!!!!!!
 
 
 //               The steps to do this is coming soon                   //
